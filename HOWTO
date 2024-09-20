@@ -19,3 +19,12 @@ Exemplo: docker build -t rodrigomicrosiga/protheus-postgres:15 .
 
 // realizar push
 - docker push <sua_conta>/<imagem>:tag
+
+// remover imagem por id
+- docker rmi <imagem_id>
+
+// excluir contêiner
+- docker rm
+
+// parar contêiner
+- docker stop
