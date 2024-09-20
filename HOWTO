@@ -1,0 +1,21 @@
+# Criação / Publicação de Imagens
+
+// construir a imagem
+- docker build -t <imagem> .
+
+Exemplo: docker build -t rodrigomicrosiga/protheus-postgres:15 .
+
+// verificar a imagem
+- docker images
+
+// executar a imagem
+- docker container run --name protheus-postgres:15 -p 5432:5432 rodrigomicrosiga/protheus-postgres:15
+
+// utilizar as credenciais
+- docker login
+
+// inserir a tag
+- docker tag <imagem_id> <conta>/<imagem>:tag
+
+// realizar push
+- docker push <sua_conta>/<imagem>:tag
