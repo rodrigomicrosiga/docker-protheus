@@ -9,7 +9,7 @@ Exemplo: docker build -t rodrigomicrosiga/protheus-postgres:15 .
 - docker images
 
 // executar a imagem
-- docker container run --name protheus-postgres:15 -p 5432:5432 rodrigomicrosiga/protheus-postgres:15
+- docker container run --name teste -p 5432:5432 rodrigomicrosiga/protheus-postgres:15
 
 // utilizar as credenciais
 - docker login
