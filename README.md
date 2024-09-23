@@ -5,7 +5,7 @@ Repositório referente ao ambiente de desenvolvimento TOTVS Protheus utilizando 
 Rápida montagem do ambiente de desenvolvimento.
 
 # Imagens:
-Serão mantidas por mim e também ficarão disponiveis através do meu perfil no hub.docker.com.
+Serão mantidas por mim e também ficarão disponiveis através do meu perfil no endereço https://hub.docker.com/repositories/rodrigomicrosiga
 
 # Ambiente/Estrutura:
 As imagens serão criadas sempre com a utilização dos últimos artefatos disponibilizados no portal do cliente.
