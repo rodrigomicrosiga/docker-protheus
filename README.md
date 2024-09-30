@@ -2,7 +2,7 @@
 Repositório referente ao ambiente de desenvolvimento TOTVS Protheus utilizando Docker
 
 # IMPORTANTE:
-O projeto foi migrado para o BitBuecket devido ao tamanho de alguns artefatos envolvidos.
+O projeto foi migrado para o BitBucket devido ao tamanho de alguns artefatos envolvidos.
 
 Link:
 
